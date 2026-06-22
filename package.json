@@ -1,0 +1,15 @@
+{
+  "name": "nba-stats-frontend",
+  "version": "1.0.0",
+  "description": "Frontend scaffold for an NBA stats app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}

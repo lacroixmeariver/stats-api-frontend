@@ -1,11 +1,14 @@
 const express = require('express');
+// const apiService = require('../services/apiService');
 
 const router = express.Router();
 
 // TODO: add route handlers for the frontend
 
 router.get('/', async (req, res) => {
-    res.render('index');
+    // const data = await apiService.fetchData();
+    // res.json(data);
+    res.render('teams');
 });
 
 

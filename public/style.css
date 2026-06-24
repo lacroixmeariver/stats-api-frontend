@@ -1,0 +1,21 @@
+#index-icon {
+    width: 40px;
+    color: white;
+}
+
+.main-content {
+    margin: 10px 15px;
+}
+
+#footer {
+    background-color: gray;
+    padding: 20px;
+}
+
+.footer-link {
+    padding: 10px;
+    color: white;
+}
+.footer-link:hover {
+    color: blue;
+}
